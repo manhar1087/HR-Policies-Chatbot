@@ -61,3 +61,5 @@ Mistral-7B-Instruct-v0.2: For language modeling.
 sentence-transformers/all-MiniLM-L6-v2: For generating sentence embeddings.
 
 ChromaDB: Vector database for efficient data retrieval.
+
+For any questions or issues, please contact me at manharshreeram@gmail.com
