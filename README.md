@@ -19,9 +19,9 @@ The main Jupyter Notebook in this repository is:
 ### Setup
    
 Open the Jupyter Notebook in Google Colab:
-Navigate to the cloned repository and open the API_model.ipynb file.
+Navigate to the repository and open the API_model.ipynb file.
 
-Libraries Required
+Libraries Required:
 Ensure you have the following libraries installed:
 
 For Generative AI and Embeddings:
@@ -43,7 +43,7 @@ Interact with the Chatbot:
 
 Use the Gradio interface to interact with the HR policies chatbot.
 
-Technologies Used
+Technologies Used:
 Python
 Gradio: For building the user interface.
 Mistral-7B-Instruct-v0.2: For language modeling.
