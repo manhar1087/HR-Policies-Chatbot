@@ -50,7 +50,7 @@ Interact with the Chatbot:
 
 Use the Gradio interface to interact with the HR policies chatbot.
 
-##Technologies Used
+## Technologies Used
 
 Python
 
