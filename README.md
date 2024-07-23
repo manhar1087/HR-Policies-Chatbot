@@ -22,15 +22,20 @@ Open the Jupyter Notebook in Google Colab:
 Navigate to the repository and open the API_model.ipynb file.
 
 Libraries Required:
+
 Ensure you have the following libraries installed:
 
 For Generative AI and Embeddings:
 
 sentence-transformers
+
 torch
+
 chromadb
 
+
 For the User Interface: 
+
 gradio
 
 Usage
