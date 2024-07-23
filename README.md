@@ -28,39 +28,32 @@ Ensure you have the following libraries installed:
 
 #### For Generative AI and Embeddings:
 
-sentence-transformers
-
-torch
-
-chromadb
+- sentence-transformers
+- torch
+- chromadb
 
 #### For the User Interface: 
 
-gradio
+- gradio
 
 ## Usage
 
 Run the Jupyter Notebook:
 
-Open the API_model.ipynb file in Google Colab.
-
-Run all cells in the notebook. This will launch the Gradio interface within the notebook.
+- Open the API_model.ipynb file in Google Colab.
+- Run all cells in the notebook. This will launch the Gradio interface within the notebook.
 
 Interact with the Chatbot:
 
-Use the Gradio interface to interact with the HR policies chatbot.
+- Use the Gradio interface to interact with the HR policies chatbot.
 
 ## Technologies Used
 
-Python
-
-Gradio: For building the user interface.
-
-Mistral-7B-Instruct-v0.2: For language modeling.
-
-sentence-transformers/all-MiniLM-L6-v2: For generating sentence embeddings.
-
-ChromaDB: Vector database for efficient data retrieval.
+- Python
+- Gradio: For building the user interface.
+- Mistral-7B-Instruct-v0.2: For language modeling.
+- sentence-transformers/all-MiniLM-L6-v2: For generating sentence embeddings.
+- ChromaDB: Vector database for efficient data retrieval.
 
 ##
 For any questions or issues, please contact me at manharshreeram@gmail.com
