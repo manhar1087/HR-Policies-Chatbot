@@ -4,7 +4,7 @@ Welcome to the HR Policies Chatbot repository! This project aims to provide an i
 
 ## Features
 
-- **Generative AI**: Uses Mistral-7B-Instruct-v0.2 for language modeling.
+- **Generative AI**: Uses `Mistral-7B-Instruct-v0.2` for language modeling.
 - **Sentence Embeddings**: Utilizes `sentence-transformers/all-MiniLM-L6-v2` for embedding sentences.
 - **Vector Database**: Implements ChromaDB for efficient data storage and retrieval.
 - **User Interface**: Interactive interface built with Gradio.
@@ -16,9 +16,10 @@ The main Jupyter Notebook in this repository is:
 
 - `API_model.ipynb`: This notebook contains all the code required to run the HR policies chatbot, including data processing, model loading, and user interface setup.
 
-### Setup
+## Setup
    
 Open the Jupyter Notebook in Google Colab:
+
 Navigate to the repository and open the API_model.ipynb file.
 
 Libraries Required:
@@ -33,7 +34,6 @@ torch
 
 chromadb
 
-
 For the User Interface: 
 
 gradio
@@ -41,7 +41,9 @@ gradio
 Usage
 
 Run the Jupyter Notebook:
+
 Open the API_model.ipynb file in Google Colab.
+
 Run all cells in the notebook. This will launch the Gradio interface within the notebook.
 
 Interact with the Chatbot:
@@ -49,8 +51,13 @@ Interact with the Chatbot:
 Use the Gradio interface to interact with the HR policies chatbot.
 
 Technologies Used:
+
 Python
+
 Gradio: For building the user interface.
+
 Mistral-7B-Instruct-v0.2: For language modeling.
+
 sentence-transformers/all-MiniLM-L6-v2: For generating sentence embeddings.
+
 ChromaDB: Vector database for efficient data retrieval.
